@@ -1,3 +1,15 @@
+link figma https://www.figma.com/design/FZZt9E2YvwQDbAnuyVfc0D/biling?node-id=2043-22&t=pJyx7gYUe0Ldevhc-1
+
+
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
